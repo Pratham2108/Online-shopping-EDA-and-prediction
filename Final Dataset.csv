@@ -1,0 +1,250 @@
+﻿CustomerID,Age,Gender,State,City,Product,Tier
+1,19,Male,Maharashtra,Navi Mumbai,fashion,1
+2,21,Male,Maharashtra,Raigad,art,3
+3,20,Female,Maharashtra,Mumbai,sports_equipement,1
+4,23,Female,Karnataka,Bangalore,baby,1
+5,31,Female,Gujarat,Jamnagar,houseware,2
+6,22,Female,Karnataka,Bangalore,art,1
+7,35,Female,Maharashtra,Mumbai,accessories,1
+8,23,Female,Karnataka,Bangalore,food_items,1
+9,64,Male,Maharashtra,Pune,electronics,1
+10,30,Female,Gujarat,Ahemedabad,sports_equipement,1
+11,67,Male,Hyderabad,Hyderabad,houseware,1
+12,35,Female,Delhi,Delhi,baby,1
+13,58,Female,Maharashtra,Kolhapur ,art,2
+14,24,Female,Maharashtra,Mumbai,food_items,1
+15,37,Male,Tamil Nadu,Chennai,hardware_tools,1
+16,22,Male,Karnataka,Bangalore,sports_equipement,1
+17,35,Female,Delhi,Delhi,fashion,1
+18,20,Male,Karnataka,Mysore,electronics,2
+19,52,Male,Maharashtra,Mumbai,food_items,1
+20,35,Female,Jharkhand,Jamshedpur,houseware,2
+21,35,Male,Goa,Panaji,food_items,2
+22,25,Male,Goa,Panaji,pet,2
+23,46,Female,Maharashtra,Mumbai,fashion,1
+24,31,Male,Maharashtra,Pune,baby,1
+25,54,Female,Maharashtra,Mumbai,food_items,1
+26,38,Male,Goa,Panaji,houseware,2
+27,45,Female,Tamil Nadu,Chennai,accessories,1
+28,35,Male,Maharashtra,Mumbai,electronics,1
+29,40,Female,Rajasthan,Ajmer,electronics,2
+30,23,Female,Maharashtra,Mumbai,sports_equipement,1
+31,60,Male,West Bengal,Kolkata,houseware,1
+32,21,Female,Maharashtra,Pune,hardware_tools,1
+33,53,Male,Tamil Nadu,Chennai,food_items,1
+34,18,Male,Tamil Nadu,Chennai,office_furniture,1
+35,49,Female,Maharashtra,Pune,sports_equipement,1
+36,21,Female,Maharashtra,Pune,baby,1
+37,42,Female,Karnataka,Mysore,electronics,2
+38,30,Female,Maharashtra,Pune,electronics,1
+39,36,Female,Punjab,Chandigarh,houseware,2
+40,20,Female,Punjab,Chandigarh,food_items,2
+41,65,Female,Karnataka,Mysore,food_items,2
+42,24,Male,Karnataka,Bangalore,sports_equipement,1
+43,48,Male,Maharashtra,Mumbai,houseware,1
+44,31,Female,Karnataka,Bangalore,baby,1
+45,49,Female,Karnataka,Bangalore,accessories,1
+46,24,Female,Gujarat,Ahemedabad,sports_equipement,1
+47,50,Female,Karnataka,Bangalore,accessories,1
+48,27,Female,Karnataka,Bangalore,food_items,1
+49,29,Female,Karnataka,Bangalore,food_items,1
+50,31,Female,Tamil Nadu,Chennai,fashion,1
+51,49,Female,Maharashtra,Mumbai,sports_equipement,1
+52,33,Male,Andhra Pradesh,Hyderabad,accessories,1
+53,31,Female,Karnataka,Bangalore,electronics,1
+54,59,Male,Delhi,Delhi,baby,1
+55,50,Female,Rajasthan,Jaipur,accessories,2
+56,47,Male,Rajasthan,Jaipur,fashion,2
+57,51,Female,Maharashtra,Mumbai,accessories,1
+58,69,Male,Rajasthan,Jaipur,accessories,2
+59,27,Female,Karnataka,Bangalore,stationery,1
+60,53,Male,Rajasthan,Jaipur,sports_equipement,2
+61,70,Male,Delhi,Delhi,sports_equipement,1
+62,19,Male,Maharashtra,Mumbai,stationery,1
+63,67,Female,Rajasthan,Jaipur,fashion,2
+64,54,Female,West Bengal,Kolkata,fashion,1
+65,63,Male,Delhi,Delhi,stationery,1
+66,18,Male,Rajasthan,Jaipur,stationery,1
+67,43,Female,Gujarat,Ahemedabad,sports_equipement,1
+68,68,Female,Karnataka,Bangalore,hardware_tools,1
+69,19,Male,Rajasthan,Ajmer,electronics,2
+70,32,Female,Karnataka,Bangalore,electronics,1
+71,70,Male,Rajasthan,Jaipur,hardware_tools,2
+72,47,Female,West Bengal,Kolkata,gifts,1
+73,60,Female,West Bengal,Kolkata,accessories,1
+74,60,Female,Uttar Pradesh,Varanasi,hardware_tools,2
+75,59,Male,Uttar Pradesh,Lucknow,pet,2
+76,26,Male,Maharashtra,Mumbai,fashion,1
+77,45,Female,Maharashtra,Mumbai,electronics,1
+78,40,Male,Kerala,Kochi,fashion,2
+79,23,Female,West Bengal,Kolkata,gifts,1
+80,49,Female,Maharashtra,Nagpur,food_items,2
+81,57,Male,Maharashtra,Mumbai,fashion,1
+82,38,Male,Maharashtra,Pune,fashion,1
+83,67,Male,Maharashtra,Mumbai,houseware,1
+84,46,Female,Maharashtra,Pune,hardware_tools,1
+85,21,Female,Maharashtra,Nagpur,fashion,2
+86,48,Male,Maharashtra,Mubai,art,1
+87,55,Female,Maharashtra,Kolhapur ,houseware,2
+88,22,Female,West Bengal,Kolkata,fashion,1
+89,34,Female,Maharashtra,Raigad,food_items,3
+90,50,Female,Rajasthan,Jaipur,electronics,2
+91,68,Female,Delhi,Delhi,sports_equipement,1
+92,18,Male,Delhi,Delhi,fashion,1
+93,48,Male,Maharashtra,Raigad,fashion,3
+94,40,Female,Maharashtra,Mumbai,sports_equipement,1
+95,32,Female,Delhi,Delhi,accessories,1
+96,24,Male,Maharashtra,Nagpur,food_items,2
+97,47,Female,Maharashtra,Mumbai,electronics,1
+98,27,Female,Maharashtra,Mumbai,electronics,1
+99,48,Male,Gujarat,Ahemedabad,gifts,1
+100,20,Male,Punjab,Chandigarh,sports_equipement,2
+101,23,Female,Maharashtra,Mumbai,food_items,1
+102,49,Female,Maharashtra,Mumbai,electronics,1
+103,67,Male,Tamil Nadu,Chennai,gifts,1
+104,26,Male,Gujarat,Ahemedabad,food_items,1
+105,49,Male,Uttar Pradesh,Varanasi,baby,2
+106,21,Female,Gujarat,Ahemedabad,sports_equipement,1
+107,66,Female,Delhi,Delhi,houseware,1
+108,54,Male,Maharashtra,Mumbai,electronics,1
+109,68,Male,Maharashtra,Mumbai,houseware,1
+110,66,Male,Tamil Nadu,Chennai,houseware,1
+111,65,Male,Rajasthan,Jaipur,sports_equipement,2
+112,19,Female,Maharashtra,Mumbai,hardware_tools,1
+113,38,Female,Uttar Pradesh,Varanasi,pet,2
+114,19,Male,Maharashtra,Mumbai,food_items,1
+115,18,Female,Maharashtra,Nagpur,food_items,2
+116,19,Female,Maharashtra,Mumbai,electronics,1
+117,63,Female,Uttar Pradesh,Lucknow,houseware,2
+118,49,Female,Maharashtra,Pune,accessories,1
+119,51,Female,Gujarat,Ahemedabad,accessories,1
+120,50,Female,Maharashtra,Pune,fashion,1
+121,27,Male,Maharashtra,Mumbi,sports_equipement,1
+122,38,Female,Punjab,Chandigad,electronics,2
+123,40,Female,Uttar Pradesh,Varanasi,houseware,2
+124,39,Male,Delhi,Delhi,fashion,1
+125,23,Female,West Bengal,Kolkata,food_items,1
+126,31,Female,Goa,Vasco,sports_equipement,2
+127,43,Male,West Bengal,Kolkata,accessories,1
+128,40,Male,Delhi,Delhi,art,1
+129,59,Male,Maharashtra,Mumbai,houseware,1
+130,38,Male,Gujarat,Ahemedabad,hardware_tools,1
+131,47,Male,Maharashtra,Raigad,fashion,3
+132,39,Male,Uttar Pradesh,Lucknow,baby,2
+133,25,Female,Uttar Pradesh,Gurgaon,entertainment,2
+134,31,Female,Karnataka,Mysore,houseware,2
+135,20,Male,Delhi,Delhi,accessories,1
+136,29,Female,Punjab,Chandigad,houseware,2
+137,44,Female,Goa,Vasco,entertainment,2
+138,32,Male,Rajasthan,Jaipur,sports_equipement,2
+139,19,Male,Delhi,Delhi,sports_equipement,1
+140,35,Female,Punjab,Chandigarh,accessories,2
+141,57,Female,Delhi,delhi,entertainment,1
+142,32,Male,Maharashtra,Mumbai,gifts,1
+143,28,Female,Maharashtra,Raigad,sports_equipement,3
+144,32,Female,Maharashtra,Raigad,baby,3
+145,25,Male,Delhi,Delhi,houseware,1
+146,28,Male,West Bengal,Kharagpur,electronics,3
+147,48,Male,West Bengal,Kharagpur,electronics,3
+148,32,Female,Maharashtra,Mumbai,gifts,1
+149,34,Female,Maharashtra,Raigad,houseware,3
+150,34,Male,Uttar Pradesh,Lucknow,electronics,2
+151,43,Male,Maharashtra,Nagpur,sports_equipement,2
+152,39,Male,Maharashtra,Mumbai,sports_equipement,1
+153,44,Female,Uttar Pradesh,Gurgaon,fashion,2
+154,38,Female,Rajasthan,Jaipur,fashion,2
+155,47,Female,Delhi,Delhi,houseware,1
+156,27,Female,Maharashtra,Mumbai,hardware_tools,1
+157,37,Male,Maharashtra,Mumbai,sports_equipement,1
+158,30,Female,Karnataka,Mysore,accessories,2
+159,34,Male,Uttar Pradesh,Lucknow,office_furniture,2
+160,30,Female,Maharashtra,Mumbai,gifts,1
+161,56,Female,West Bengal,Kharagpur,sports_equipement,3
+162,29,Female,Maharashtra,Mumbai,fashion,1
+163,19,Male,Gujarat,Ahemedabad,electronics,1
+164,31,Female,Maharashtra,Mumbai,houseware,1
+165,50,Male,Punjab,Chandigarh,hardware_tools,2
+166,36,Female,Rajasthan,Jaipur,fashion,2
+167,42,Male,Punjab,Chandigarh,houseware,2
+168,33,Female,Maharashtra,Mumbai,electronics,1
+169,36,Female,Delhi,Delhi,sports_equipement,1
+170,32,Male,Maharashtra,Raigad,stationery,3
+171,40,Male,Punjab,Chandigarh,sports_equipement,2
+172,28,Male,Delhi,Delhi,accessories,1
+173,36,Male,Maharashtra,Mumbai,stationery,1
+174,36,Male,Rajasthan,Jaipur,electronics,2
+175,52,Female,Delhi,Delhi,fashion,1
+176,30,Female,Maharashtra,Mumbai,sports_equipement,1
+177,58,Male,Goa,Panaji,hardware_tools,2
+178,27,Male,Rajasthan,Jaipur,sports_equipement,2
+179,59,Male,Delhi,Delhi,accessories,1
+180,35,Male,Uttar Pradesh,Gurugram,hardware_tools,2
+181,37,Female,Punjab,Chandigarh,houseware,2
+182,32,Female,Uttar Pradesh,Lucknow,fashion,2
+183,46,Male,Maharashtra,Mumbai,accessories,1
+184,29,Female,Karnataka,Bangalore,electronics,1
+185,41,Female,Maharashtra,Mumbai,houseware,1
+186,30,Male,Goa,Vasco,electronics,2
+187,54,Female,West Bengal,Kolkata,fashion,1
+188,28,Male,Delhi,Delhi,sports_equipement,1
+189,41,Female,Gujarat,Jamnagar,hardware_tools,2
+190,36,Female,Gujarat,Ahemedabad,fashion,1
+191,34,Female,Uttar Pradesh,Gurgaon,gifts,2
+192,32,Female,Punjab,Chandigarh,food_items,2
+193,33,Male,Uttar Pradesh,Gurgaon,food_items,2
+194,38,Female,Andhra Pradesh,Vizag,houseware,2
+195,47,Female,Goa,Panaji,accessories,2
+196,35,Female,Rajasthan,Jaipur,houseware,2
+197,45,Female,Uttar Pradesh,Lucknow,sports_equipement,2
+198,32,Male,Delhi,Delhi,stationery,1
+199,32,Male,Punjab,Chandigarh,stationery,2
+200,30,Male,Maharashtra,Mumbai,sports_equipement,1
+201,27,Female,Uttar Pradesh,Gurgaon,houseware,2
+202,53,Male,Goa,Panaji,houseware,2
+203,70,Male,Karnataka,Mysore,pet,2
+204,19,Male,Uttar Pradesh,Lucknow,sports_equipement,2
+205,67,Female,Maharashtra,Mumbai,baby,1
+206,54,Female,Punjab,Chandigarh,electronics,2
+207,63,Male,Karnataka,Mysor,houseware,2
+208,18,Male,Maharashtra,Mumbai,fashion,1
+209,43,Female,Rajasthan,Jaipur,electronics,2
+210,68,Female,Punjab,Chandigarh,sports_equipement,2
+211,19,Male,Karnataka,Mysore,fashion,2
+212,32,Female,Delhi,Delhi,pet,1
+213,70,Male,Andhra Pradesh,Vizag,baby,2
+214,47,Female,Rajasthan,Jaipur,fashion,2
+215,60,Female,Andhra Pradesh,Vizag,gifts,2
+216,60,Female,Gujarat,Jamnagar,houseware,2
+217,59,Male,Tamil Nadu,Chennai,fashion,1
+218,26,Male,West Bengal,Kolkata,sports_equipement,1
+219,45,Female,Uttar Pradesh,Lucknow,houseware,2
+220,40,Male,Andhra Pradesh,Vizag,accessories,2
+221,23,Female,Uttar Pradesh,Gurgaon,sports_equipement,2
+222,49,Female,Delhi,Delhi,stationery,1
+223,57,Male,Tamil Nadu,Chennai,hardware_tools,1
+224,38,Male,Uttar Pradesh,Lucknow,gifts,2
+225,67,Male,Tamil Nadu,Chennai,houseware,1
+226,46,Female,Andhra Pradesh,Visakhapatnam,accessories,2
+227,21,Female,Delhi,Delhi,sports_equipement,1
+228,48,Male,Karnataka,Mysore,houseware,2
+229,55,Female,Delhi,Delhi,art,1
+230,22,Female,Tamil Nadu,Chennai,fashion,1
+231,34,Female,Delhi,Delhi,entertainment,1
+232,50,Female,Maharashtra,Navi Mumbai,fashion,1
+233,68,Female,Gujarat,Jamnagar,houseware,2
+234,18,Male,Maharashtra,Mumbai,electronics,1
+235,48,Male,West Bengal,Kolkata,electronics,1
+236,40,Female,Maharashtra,Mumbai,sports_equipement,1
+237,32,Female,Maharashtra,Navi Mumbai,food_items,1
+238,24,Male,Kerala,Kochi,houseware,2
+239,47,Female,West Bengal,Kolkata,hardware_tools,1
+240,27,Female,Delhi,Delhi,electronics,1
+241,48,Male,Tamil Nadu,Chennai,hardware_tools,1
+242,20,Male,Maharashtra,Navi Mumbai,houseware,1
+243,23,Female,Kerala,Cochi,houseware,2
+244,49,Female,Maharashtra,Nagpur,sports_equipement,2
+245,67,Male,West Bengal,Kolkata,fashion,1
+246,26,Male,Delhi,Delhi,electronics,1
+247,49,Male,Maharashtra,Navi Mumbai,pet,1
+248,21,Female,Delhi,Delhi,sports_equipement,1
+249,66,Female,Maharashtra,Nagpur,fashion,2
